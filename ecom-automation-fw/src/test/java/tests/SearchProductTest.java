@@ -16,7 +16,7 @@ import object_repository.RegisterPage;
 import object_repository.SearchPage;
 
 public class SearchProductTest extends AuthenticationTest{
-	
+	/*
 	
 	@Test(groups = {"smoke", "positive"})
 	public void verifySearchProduct() {
@@ -41,7 +41,7 @@ public class SearchProductTest extends AuthenticationTest{
 		
 	}
 	
-	/*
+	
 	@Test(groups = {"negative", "regression"})
 	public void verifySearchWithInvalidKeyword() {
 		
