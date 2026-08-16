@@ -1,0 +1,5 @@
+tests\CartTest.class
+tests\LoginTest.class
+tests\RegisterTest.class
+tests\E2ETest.class
+tests\SearchProductTest.class

@@ -1,0 +1,28 @@
+# ==========================================
+# Selenium & Testing Framework Specifics
+# ==========================================
+# TestNG / JUnit execution outputs
+test-output/
+surefire-reports/
+test-reports/
+html-report/
+
+# Extent Reports / Allure Reports local generations
+ExtentReports/
+allure-results/
+allure-report/
+reports/
+
+# Screenshots & Video recordings of failures
+screenshots/
+execution_videos/
+
+# WebDriver driver executables / browser binaries
+drivers/
+*.exe
+chromedriver
+geckodriver
+IEDriverServer
+chromedriver.log
+geckodriver.log
+ghostdriver.log
